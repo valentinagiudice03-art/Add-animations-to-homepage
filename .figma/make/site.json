@@ -1,0 +1,10 @@
+{
+  "description": "An animated website homepage that brings its existing layout and components to life, creating a more engaging and polished browsing experience.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
